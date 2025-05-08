@@ -7,7 +7,7 @@ NOTE: This will ONLY really work with W_P games (also technically GV allows Linu
 ```
 download repo and cd into dir
 python -m venv .venv && source .venv/bin/activate
-pip -r requirements.txt
+pip install -r requirements.txt
 python main.py
 ```
 
